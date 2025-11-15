@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Elevator Rush",
+        "url": "https://play.google.com/store/apps/details?id=com.strealtech.kidslearning&hl=en",
+        "image": "https://raw.githubusercontent.com/sohaibtanoli50/OtherGames/main/images/ElevatorRush.png"
+    },    {
+        "name": "Kids Learning",
+        "url": "https://play.google.com/store/apps/details?id=com.strealtech.kidslearning&hl=en",
+        "image": "https://raw.githubusercontent.com/sohaibtanoli50/OtherGames/refs/heads/main/images/SmarttKids.png"
+    },
+    {
+        "name": "Rescue Rider",
+        "url": "https://play.google.com/store/apps/details?id=com.strealtech.rescuerider",
+        "image": "https://raw.githubusercontent.com/sohaibtanoli50/OtherGames/refs/heads/main/images/RescueRiders.png"
+    },
+    {
+        "name": "Wings Unlimited",
+        "url": "https://play.google.com/store/apps/details?id=com.strealtech.wingsunlimitedmultiflyer",
+        "image": "https://raw.githubusercontent.com/sohaibtanoli50/OtherGames/refs/heads/main/images/WingsUnlimited.png"
+    },
+    {
+        "name": "Galaxy Drifter",
+        "url": "https://play.google.com/store/apps/details?id=com.strealtech.galaxydrifter&hl=en",
+        "image": "https://raw.githubusercontent.com/sohaibtanoli50/OtherGames/refs/heads/main/images/GalaxyDrift.png"
+    }
+]
